@@ -145,14 +145,39 @@ By using this software, **you accept full responsibility** for your actions.
 
 ## 📜 License
 
-This project is released under the **MIT License**.
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
 
-You are free to:
-- Use
-- Modify
-- Distribute
+This means you are free to:
 
-As long as the original license and copyright notice are preserved.
+- Use this software for personal or educational purposes
+- Study how the software works
+- Modify the source code
+- Share the software with others
+
+Under the following conditions:
+
+- Any modified or redistributed version **must also be licensed under GPL-3.0**
+- Source code **must be made available** when distributing binaries
+- The original copyright and license notices **must be preserved**
+
+---
+
+### ❗ Important Clarification
+
+This license **does not grant permission** to violate:
+
+- YouTube Terms of Service
+- Copyright laws
+- Platform-specific content restrictions
+
+The license applies **only to the source code**, not to the content downloaded using this tool.
+
+---
+
+### 📄 Full License Text
+
+The full license text is available at:  
+https://www.gnu.org/licenses/gpl-3.0.en.html
 
 ---
 
