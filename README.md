@@ -1,6 +1,6 @@
-# yt — Opinionated YouTube Downloader (MP3 / MP4)
+# Opinionated YouTube Downloader (MP3 / MP4)
 
-`yt` is a **minimal, opinionated command-line tool** built on top of `yt-dlp` that lets you download **highest-quality MP3 audio or MP4 video** using a single, clean command.
+This is a **minimal, opinionated command-line tool** built on top of `yt-dlp` that lets you download **highest-quality MP3 audio or MP4 video** using a single, clean command.
 
 This project focuses on **automation, safety, and sane defaults** — not on bypassing platform rules or encouraging misuse.
 
@@ -192,12 +192,9 @@ All credit for extraction and download capabilities belongs to the upstream proj
 
 ---
 
-## 🔮 Future Roadmap (Optional)
+## 🔮 Future Roadmap
 
-- Channel watch mode
-- Smart deduplication
-- Chapter-based audio splitting
-- Plugin system
+- If You have any suggestions, [Mail Here](mailto:theastralx@gmail.com)
 
 ---
 
